@@ -1,0 +1,33 @@
+/* https://github.com/cloudguy9/proyek-html/LATIHAN 2 */
+/* Oct 08, 2025 */
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    margin: 15px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: cyan;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: blueviolet;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(32, 68, 68);
+}
+.navbar li{
+    float: left;
+}
